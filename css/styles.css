@@ -1,6 +1,7 @@
 @import "./buttons.css";
 body {
-  background-color: #26b4bc;
+  background-image: url(../images/fondo.jpg);
+  background-size: 100%;
   font-family: Arial, Helvetica, sans-serif;
 }
 .wrapper {
